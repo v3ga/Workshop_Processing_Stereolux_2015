@@ -1,0 +1,4 @@
+monsterA = Raphael
+monsterB = Efflam
+
+
