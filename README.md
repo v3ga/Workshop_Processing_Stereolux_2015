@@ -21,6 +21,7 @@ Pour la partie technique, nous avons utilisé l'application [FaceOSC](https://vi
 
 ### Production
 ![Composition](http://v3ga.github.io/Images/Workshop_Processing_Stereolux_2015/composition.ok.png)
+![Installation](http://v3ga.github.io/Images/Workshop_Processing_Stereolux_2015/Processing_Monters_Stereolux.JPG)
 
 
 
