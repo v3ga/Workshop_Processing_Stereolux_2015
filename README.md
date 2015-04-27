@@ -7,7 +7,7 @@ Seulement deux des participants avait déjà fait de la programmation sur [Ardui
 Pour la partie technique, nous avons utilisé l'application [FaceOSC](https://vimeo.com/26098366) de [Kyle MacDonald](http://kylemcdonald.net/) pour la détection de visages, et une [librairie](https://github.com/v3ga/v3ga-processing-libs) que j'avais développée pour l'occasion pour faciliter les écritures dans Processing.
 
 ### Références
-* Processing Monsters — Lukas Vojir (original concept, article on [Code&Form](http://workshop.evolutionzone.com/2008/11/12/processing-monsters/))
+* Processing Monsters — Lukas Vojir (original concept, article sur le blog [Code&Form](http://workshop.evolutionzone.com/2008/11/12/processing-monsters/))
 * [Bla-bla](http://www.creativeapplications.net/processing/bla-bla-bla-iphone-of-processing-sound/) — Lorenzo Brazi
 * [Interactivity course / UCLA Design Media Arts](http://workshop.evolutionzone.com/2008/11/12/processing-monsters/) 
 * [Processing Monsters / Abstract Machine](http://www.abstractmachine.net/blog/processing-monsters/)
@@ -23,7 +23,9 @@ Pour la partie technique, nous avons utilisé l'application [FaceOSC](https://vi
 ![Composition](http://v3ga.github.io/Images/Workshop_Processing_Stereolux_2015/composition.ok.png)
 ![Installation](http://v3ga.github.io/Images/Workshop_Processing_Stereolux_2015/Processing_Monters_Stereolux.JPG)
 
-
+### Remerciements
+À tous les participants de l'atelier : Alexandre, Baptiste, Efflam, Jacques, Julien, Laurette, Léon, Mattéo, Noé, Raphaël, Timothée.
+Et à l'équipe de Stereolux : Mélanie, Floriane et Sonia.
 
 
 
