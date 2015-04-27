@@ -24,8 +24,8 @@ Pour la partie technique, nous avons utilisé l'application [FaceOSC](https://vi
 ![Installation](http://v3ga.github.io/Images/Workshop_Processing_Stereolux_2015/Processing_Monters_Stereolux.JPG)
 
 ### Remerciements
-À tous les participants de l'atelier : Alexandre, Baptiste, Efflam, Jacques, Julien, Laurette, Léon, Mattéo, Noé, Raphaël, Timothée.
-Et à l'équipe de Stereolux : Mélanie, Floriane et Sonia.
+* À tous les participants de l'atelier : Alexandre, Baptiste, Efflam, Jacques, Julien, Laurette, Léon, Mattéo, Noé, Raphaël, Timothée.
+* Et à l'équipe de Stereolux : Mélanie, Floriane et Sonia qui m'ont accueilli dans d'excellentes conditions.
 
 
 
